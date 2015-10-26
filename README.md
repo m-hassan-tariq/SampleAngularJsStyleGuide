@@ -2,7 +2,7 @@
 
 Angular Style Guide for enterprise and large-scale projects
 
-1: Single Responsibility
+1: **Single Responsibility**
 - Define 1 component per file.
 
 
