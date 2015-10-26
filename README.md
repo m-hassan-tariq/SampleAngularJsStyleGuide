@@ -5,35 +5,22 @@ Angular Style Guide for enterprise and large-scale projects
 **Single Responsibility**
 - Define 1 component per file.
 
-
-
 ![pastedimage](https://cloud.githubusercontent.com/assets/10474169/10745636/98f8b3f0-7c11-11e5-88e4-1006af091206.png)
 
-
-
 **IIFE**
-Wrap Angular components in an Immediately Invoked Function Expression (IIFE).
-
-
+- Wrap Angular components in an Immediately Invoked Function Expression (IIFE).
 
 ![pastedimage 1](https://cloud.githubusercontent.com/assets/10474169/10745625/98de3cf0-7c11-11e5-82b1-e356ee6b13c3.png)
-
-
 
 **Definitions (aka Setters)**
 - Declare modules without a variable using the setter syntax.
 - When using a module, avoid using a variable and instead use chaining with the getter syntax.
 - Only set once and get for all other instances.
 
-
-
 ![pastedimage 2](https://cloud.githubusercontent.com/assets/10474169/10745627/98de58a2-7c11-11e5-9d97-643d9bc10ca9.png)
 
-
 **Named vs Anonymous Functions**
- 
 Use named functions instead of passing an anonymous function in as a callback.
-
 
 ![pastedimage 3](https://cloud.githubusercontent.com/assets/10474169/10745624/98dd7a90-7c11-11e5-94e2-5ace27084ad7.png)
 
