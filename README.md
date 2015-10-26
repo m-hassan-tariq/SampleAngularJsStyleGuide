@@ -2,12 +2,12 @@
 
 Angular Style Guide for enterprise and large-scale projects
 
-- Single Responsibility
-Define 1 component per file.
+1: Single Responsibility
+- Define 1 component per file.
 
 
 
-![pastedimage 1](https://cloud.githubusercontent.com/assets/10474169/10745625/98de3cf0-7c11-11e5-82b1-e356ee6b13c3.png)
+![pastedimage](https://cloud.githubusercontent.com/assets/10474169/10745636/98f8b3f0-7c11-11e5-88e4-1006af091206.png)
 
 
 
