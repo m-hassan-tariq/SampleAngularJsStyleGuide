@@ -84,7 +84,7 @@ Use $inject to manually identify your dependencies for Angular components.
 ![pastedimage 13](https://cloud.githubusercontent.com/assets/10474169/10745638/98f993ce-7c11-11e5-8944-6b08c71af30c.png)
 
 **Application Structure LIFT Principle**
-LIFT is:
+-LIFT is:
 -Locating our code is easy
 -Identify code at a glance
 -Flat structure as long as we can
