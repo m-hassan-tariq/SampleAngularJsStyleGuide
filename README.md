@@ -79,18 +79,18 @@ Use $inject to manually identify your dependencies for Angular components.
 ![pastedimage 12](https://cloud.githubusercontent.com/assets/10474169/10745637/98f9a1f2-7c11-11e5-8901-80a8eecfffe9.png)
  
 **Module Dependencies**
--The application root module depends on the app specific feature modules and any shared or reusable modules.
+- The application root module depends on the app specific feature modules and any shared or reusable modules.
 
 ![pastedimage 13](https://cloud.githubusercontent.com/assets/10474169/10745638/98f993ce-7c11-11e5-8944-6b08c71af30c.png)
 
 **Application Structure LIFT Principle**
--LIFT is:
--Locating our code is easy
--Identify code at a glance
--Flat structure as long as we can
--Try to stay DRY (Don’t Repeat Yourself) or T-DRY
+- LIFT is:
+- Locating our code is easy
+- Identify code at a glance
+- Flat structure as long as we can
+- Try to stay DRY (Don’t Repeat Yourself) or T-DRY
 
 Folders-by-Feature Structure:
--Create folders named for the feature they represent. When a folder grows to contain more than 7 files, start to consider creating a folder for them. Your threshold may be different, so adjust as needed.
+- Create folders named for the feature they represent. When a folder grows to contain more than 7 files, start to consider creating a folder for them. Your threshold may be different, so adjust as needed.
 
 ![pastedimage 14](https://cloud.githubusercontent.com/assets/10474169/10745635/98f7e5c4-7c11-11e5-9b4f-52297ff0928e.png)
