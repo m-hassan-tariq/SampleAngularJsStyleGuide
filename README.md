@@ -1,4 +1,4 @@
-# SampleAngularJsStyleGuide
+# Sample AngularJs Style Guide
 
 Angular Style Guide for enterprise and large-scale projects
 
