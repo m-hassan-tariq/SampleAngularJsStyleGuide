@@ -1,6 +1,6 @@
 # Sample AngularJs Style Guide
 
-Angular Style Guide for enterprise and large-scale projects
+Angular Style Guide for enterprise and large-scale projects.
 
 **Single Responsibility**
 - Define 1 component per file.
